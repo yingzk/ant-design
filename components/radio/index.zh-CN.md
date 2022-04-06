@@ -25,7 +25,7 @@ cover: https://gw.alipayobjects.com/zos/alicdn/8cYb5seNB/Radio.svg
 | disabled       | 禁用 Radio                        | boolean | false  |
 | value          | 根据 value 进行比较，判断是否选中 | any     | -      |
 
-### RadioGroup
+### Radio.Group
 
 单选框组合，用于包裹一组 `Radio`。
 
